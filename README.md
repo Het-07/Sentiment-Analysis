@@ -21,11 +21,11 @@ I built recommendation system in this project for this solution.
 
 ## What Will These Solutions Bring to The Company?
 
-easy product comparison
-defining dislikes easily
-saving time
-more money with selling more products
-happier customers = more customers = more money
+easy product comparison <br>
+defining dislikes easily <br>
+saving time <br>
+more money with selling more products <br>
+happier customers = more customers = more money <br>
 less time on server = less problem
 
 ## Data:
