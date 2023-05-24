@@ -49,3 +49,7 @@ In this project, I worked on sentiment analysis of Kindle Store reviews in Amazo
 * Optimization and Refinement: Iterate and refine the model by fine-tuning the sentiment analysis algorithm, optimizing the recommendation algorithm, and incorporating user feedback. Continuously evaluate and improve the performance of the system.
 
 * Deployment: Once the model is trained and evaluated, deploy the sentiment analysis-based recommendation system in a production environment. Monitor its performance, gather user feedback, and make necessary updates and improvements as required.
+
+## Note:
+I have upload my Jupyter Notebook for both sentiment analysis and recommendation model for your reference.
+Moreover, I have uploaded sample data - both raw and cleaned data.
