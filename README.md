@@ -51,5 +51,5 @@ In this project, I worked on sentiment analysis of Kindle Store reviews in Amazo
 * Deployment: Once the model is trained and evaluated, deploy the sentiment analysis-based recommendation system in a production environment. Monitor its performance, gather user feedback, and make necessary updates and improvements as required.
 
 ## Note:
-I have upload my Jupyter Notebook for both sentiment analysis and recommendation model for your reference.
+I have upload my Jupyter Notebook for both sentiment analysis and recommendation model for your reference.<br>
 Moreover, I have uploaded sample data - both raw and cleaned data.
